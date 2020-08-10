@@ -1,9 +1,38 @@
 # https://chuffed.org/project/support-for-orphanage-in-ibadan-nigeria
+# https://www.ledger-cli.org/
+
+
+
+# Proposed first purchase for the orphanage. NGN 99.967 (DKK 1656)
+# 1 bag of 50kg local rice 24.000 (397)
+# 5 liters of vegetable oil 4.500 (74)
+# 5 liters of red oil is 3.000 (50)
+# 1 big tin of milk is 4.000 (66)
+# 1 big tin of Milo is 5.000 (83)
+# 10 rubber of beans is 6.000 (100). 1 rubber = 1 plastic pot of around 2.5 liters. So this is around 25kg
+# 10 rubber of garri is 4.000 (66). Around 20kg
+# 1 bag of semovita is 4.000 (66)
+# few yams for 5.000 (83)
+# 2 pack of indomie is 7.000 (116)
+# soap 1.500 (25)
+# 5 x 12 yards of textile to sow new clothes 30.000 (497). There are 5 of the older children who are tailors and can make this for the younger children.
+# transportation 2.000 (33)
+
+# 2020-08-10   DKK 1611,28 payout from Assets:Chuffed/Stripe 
+
+2020-08-10   Week 32 donations
+	Income:Donations:Chuffed	-830
+	Assets:Chuffed			 830
+
+2020-08-04   Marketing consultant august
+	Expenses:Marketing		953 {=USD 150}
+	Expenses:TransferFees
+	Paul:Assets:BankAccount		-1018
 
 2020-08-02   Week 31 donations
 	Income:Donations:Chuffed	-1645
 	Assets:Chuffed			 1645
 
-2020-07-09   Civilstyrelsen processing fee
-	Expenses:ProcessingFees		 1100
+2020-07-09   Civilstyrelsen Application fee (indsamlingsnaevnet.dk)
+	Expenses:ApplicationFees	 1100
 	Paul:Assets:BankAccount		-1100
