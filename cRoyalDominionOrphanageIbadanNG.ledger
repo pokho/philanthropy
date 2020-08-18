@@ -1,6 +1,18 @@
 # https://chuffed.org/project/support-for-orphanage-in-ibadan-nigeria
 # https://www.ledger-cli.org/
 
+# 2020-08-17 DKK 1374,20 payout from Assets:Chuffed/Stripe
+
+2020-08-17   Week 33 donations  ; Total donations = DKK 3175
+	Income:Donations:Chuffed	-700
+	Assets:Chuffed			700
+
+2020-08-15   1st shipment to orphanage    ; https://www.youtube.com/watch?v=gBttSZ-7Tc0
+	Expenses:Food		1179,24
+	Expenses:Clothes	497 {=NGN 30000}
+	Assets:Chuffed		-1676,24
+	; Paul:Assets:Bank	-(838,82+837,42) {=NGN 50000 + NGN 50000}	; 2020-08-14
+	; NGContact:Assets:Bank		NGN 100000				; 2020-08-14
 
 
 # Proposed first purchase for the orphanage. NGN 99.967 (DKK 1656)
@@ -20,7 +32,7 @@
 
 # 2020-08-10   DKK 1611,28 payout from Assets:Chuffed/Stripe 
 
-2020-08-10   Week 32 donations
+2020-08-10   Week 32 donations		; Total donations = DKK 2475
 	Income:Donations:Chuffed	-830
 	Assets:Chuffed			 830
 
