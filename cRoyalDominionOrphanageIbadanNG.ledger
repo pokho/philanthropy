@@ -1,19 +1,36 @@
 # https://chuffed.org/project/support-for-orphanage-in-ibadan-nigeria
 # https://www.ledger-cli.org/
 
+# 2020-08-24  DKK 769,93 payout from Assets:Chuffed/Stripe
+
+2020-08-24    Week 34		; Total donations   5825+2055
+	Income:Donations:Mobilepay		-2055
+	Income:Donations:Chuffed		-2650
+	Assets:Chuffed				2650
+	Assets:Mobilepay			2055
+	Expenses:Fees:MobilepayBoxFee		30  	; 2020-08-23. Two box fees of 15kr each
+	Paul:Assets:BankAccount			-30
+
+2020-08-23    Nørrebroparken Streetsale sodas & chocolate
+	Expenses:Promotion:Nørrebroparken1:Sodas&Chocolate		(221,80+10+34,75) ; https://photos.app.goo.gl/38KiH8NEM1XxLjh99
+	Expenses:Promotion:Nørrebroparken1:Coolingbox&Fastening		(20+119,95+10)
+	Paul:Assets:BankAccount						-208,25
+	Rikke:Assets:BankAccount					-208,25
+
 # 2020-08-17 DKK 1374,20 payout from Assets:Chuffed/Stripe
 
 2020-08-17   Week 33 donations  ; Total donations = DKK 3175
 	Income:Donations:Chuffed	-700
 	Assets:Chuffed			700
 
-2020-08-15   1st shipment to orphanage    ; https://www.youtube.com/watch?v=gBttSZ-7Tc0
-	Expenses:Food		1179,24
-	Expenses:Clothes	497 {=NGN 30000}
+2020-08-15   1st shipment to orphanage    ; Status video  https://www.youtube.com/watch?v=gBttSZ-7Tc0 and https://photos.app.goo.gl/hP9cqQuCqqbJph4d7
+	Expenses:1stShipment:Food		1179,24 {=NGN 70000}
+	Expenses:1stShipment:Clothes	497 {=NGN 30000}   
 	Assets:Chuffed		-1676,24
-	; Paul:Assets:Bank	-(838,82+837,42) {=NGN 50000 + NGN 50000}	; 2020-08-14
-	; NGContact:Assets:Bank		NGN 100000				; 2020-08-14
-
+	; Paul:Assets:Bank	(-838,82-837,42) {=NGN 50000 + NGN 50000}	; 2020-08-14
+	; NGContact:Assets:Bank			NGN 100000				; 2020-08-14
+	; NGContact:Assets:Bank			NGN -100000				; 2020-08-14
+	; Expenses:Market:Food&Clothes		NGN 100000				; 2020-08-14
 
 # Proposed first purchase for the orphanage. NGN 99.967 (DKK 1656)
 # 1 bag of 50kg local rice 24.000 (397)
@@ -37,8 +54,8 @@
 	Assets:Chuffed			 830
 
 2020-08-04   Marketing consultant august
-	Expenses:Marketing		953 {=USD 150}
-	Expenses:TransferFees
+	Expenses:Promotion:Marketing		953 {=USD 150}
+	Expenses:Fees:TransferFees
 	Paul:Assets:BankAccount		-1018
 
 2020-08-02   Week 31 donations
@@ -46,5 +63,5 @@
 	Assets:Chuffed			 1645
 
 2020-07-09   Civilstyrelsen Application fee (indsamlingsnaevnet.dk)
-	Expenses:ApplicationFees	 1100
+	Expenses:Fees:ApplicationProcessing	 1100
 	Paul:Assets:BankAccount		-1100
