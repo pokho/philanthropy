@@ -1,6 +1,16 @@
 # https://chuffed.org/project/support-for-orphanage-in-ibadan-nigeria
 # https://www.ledger-cli.org/
 
+# 2020-08-31    DKK 2174,56 payout from Assets:Chuffed/Stripe
+
+2020-08-31    Week 35    	; Total donations  7635(Chuffed)+5660(Mobilepay)
+	Income:Donations:Mobilepay		-3605
+	Income:Donations:Chuffed		-1810
+	Assets:Chuffed				1810
+	Assets:Mobilepay			3605
+	Expenses:Fees:MobilepayBoxFee		45	; Mobilepay wants 15kr fee everytime you cross 1000kr in a box
+	Paul:Assets:BankAccount			-45
+
 # 2020-08-24  DKK 769,93 payout from Assets:Chuffed/Stripe
 
 2020-08-24    Week 34		; Total donations   5825+2055
