@@ -1,5 +1,35 @@
 # https://chuffed.org/project/support-for-orphanage-in-ibadan-nigeria
+# https://workflowy.com/s/budget/7sThxv4G3qo9gq5V
 # https://www.ledger-cli.org/
+# https://transferwise.com/invite/u/paulh2606
+
+
+# Research cost of: repairing their minivan, build bunk beds, build aquaponics/fishtank, make natural soaps, install solar cells.
+
+2020-09-10	2nd shipment to orphanage
+	Expenses:2ndShipment:Food	1353.78 {=NGN 81000}
+	Assets:Chuffed			-1353.78
+	;Paul:Assets:Bank		-1353.78 {=NGN 81000}
+	;NGContact:Assets:Bank		NGN 81000 {=1353.78}
+	;NGContact:Assets:Bank		NGN -81000
+	;Expenses:Market:Food		NGN 81000
+	;Expenses:NGTransportation	NGN 2000 {=37.16}
+	;Paul:Assets:Bank		-37.16
+
+# 2020-09-07	DKK 1359,65 payout from Assets:Chuffed/Stripe
+
+# Proposition 2: Food aid for approximately 1 month
+# 30kg yellow cornflour	26.000
+# (10kg?) semovita	4.000
+# 15kg yam flour	10.000
+# 25kg beans		6.000
+# 50kg local rice	24.000
+# 10l red oil		6.000 ; https://healthytraditions.com/collections/virgin-palm-oil/ & https://www.webmd.com/vitamins/ai/ingredientmono-1139/palm-oil
+# 1 box indomie		3.500
+# soap			1.500
+# TOTAL			81.000 NGN (1341.60 DKK)
+
+
 
 # 2020-08-31    DKK 2174,56 payout from Assets:Chuffed/Stripe
 
