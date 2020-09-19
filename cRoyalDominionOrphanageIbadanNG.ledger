@@ -4,9 +4,32 @@
 # https://transferwise.com/invite/u/paulh2606
 
 
+2020-09-19	Tailors and Carpenters support
+	Expenses:3rdShipment:TailorSupport		1177.19 {NGN 69.750}
+	Expenses:3rdShipment:CarpenterSupport		820.29 {NGN 50.000}
+	Assets:Chuffed				-1997.48
+
+2020-09-18	Special Naija Treat
+	Expenses:Perks:SpecialNaijaTreat	(460+65+225+385)  ; https://www.instagram.com/p/CFSyOrRhN34/
+	Paul:Assets:BankAccount			-1135
+
+
+# Proposition 3: Empower the tailors and carpenters to do their craft so that they can earn money to support themselves
+# TAILORS (5 are learning tailoring, 1 is already very skilled)
+# sewing machine			NGN 55.000
+# 5 scissors				NGN 7500
+# 5 rulers				NGN 250
+# 1 pressing iron			NGN 7000
+#
+# CARPENTERS (10 are learning carpentry)
+# tools(hammer, saw, chair, measuring)	NGN 50.000
+#
+# Total: 				NGN 119.750 (DKK 1964.59)
+
 # Research cost of: repairing their minivan, build bunk beds, build aquaponics/fishtank, make natural soaps, install solar cells.
 
-2020-09-10	2nd shipment to orphanage
+
+2020-09-10	2nd shipment to orphanage        ; https://drive.google.com/drive/folders/12N5FeO6hR8njTjUlX6V0mFEKSyyjUDtE?usp=sharing
 	Expenses:2ndShipment:Food	1353.78 {=NGN 81000}
 	Assets:Chuffed			-1353.78
 	;Paul:Assets:Bank		-1353.78 {=NGN 81000}
@@ -16,7 +39,7 @@
 	;Expenses:NGTransportation	NGN 2000 {=37.16}
 	;Paul:Assets:Bank		-37.16
 
-# 2020-09-07	DKK 1359,65 payout from Assets:Chuffed/Stripe
+# 2020-09-07	DKK 1359,65 payout from Assets:Chuffed/Stripe. This was the last payout received. Total payouts = 7289,62
 
 # Proposition 2: Food aid for approximately 1 month
 # 30kg yellow cornflour	26.000
