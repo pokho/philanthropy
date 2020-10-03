@@ -1,17 +1,73 @@
-# https://chuffed.org/project/support-for-orphanage-in-ibadan-nigeria
-# https://workflowy.com/s/budget/7sThxv4G3qo9gq5V
-# https://www.ledger-cli.org/
-# https://transferwise.com/invite/u/paulh2606
+# Project site: https://chuffed.org/project/support-for-orphanage-in-ibadan-nigeria
+# Project planned budget: https://workflowy.com/s/budget/7sThxv4G3qo9gq5V
+# How to use this file: https://www.ledger-cli.org/
+# Do you also need to send money internationally, sign up here to get discount: https://transferwise.com/invite/u/paulh2606
+
+# Proposition 5: Books for further self-education, and tuition fees for top students
+#
+#
+# TUITION FEES for the 5 top students
+# https://nigerianinfopedia.com.ng/6-3-3-4-9-3-4-system-of-education-in-nigeria/
+# 3 students in primary		NGN 15.000 pr term pr child	Total NGN 135.000 for 1 year for 3 children
+# 2 students in secondary	NGN 20.000 pr term pr child	Total NGN 120.000 for 1 year for 2 children
+# 								Total NGN 255.000 (DKK ~4220) for 1 year for 5 children
+#
+# SCHOOL MATERIALS
+# Pen
+# Notebook (plain)
+#
+#
+#BOOKS
+# Mathematics	Knuth: Concrete Mathematics
+# NG languages
+# NG history
+# Poetry	Donatus Nwoga: West African Verse
+# 		Wole Soyinka: Poems of Black Africa
+# 		Shakespeare
+# Carpentry: 	Paul Sellers: Working Wood 1 & 2
+# Farming: 	Rosemary Morrow: Earth User's Guide to Permaculture 
+# 		Mollisson: Introduction to Permaculture + Permaculture Designers Manual
+# 		Hemenway: Gaia's Garden
+# Philosophy	The Socratic Dialogues
+# Lang&Media	Rosenberg: Non-Violent Communication
+# 		Ong: Orality & Literacy
+# 		McLuhan: Understanding Media
+# Culture&Fin	Ngozi: Dear Ijeawele
+# 		Clason: Richest Man in Babylon; Hill: Five Wealth Secrets; Hill: Think and grow rich; or Piketty: Capitalism
 
 
-2020-09-19	Tailors and Carpenters support
-	Expenses:3rdShipment:TailorSupport		1177.19 {NGN 69.750}
-	Expenses:3rdShipment:CarpenterSupport		820.29 {NGN 50.000}
-	Assets:Chuffed				-1997.48
+2020-09-26	Weaving 2 month programme
+	Expenses:4thInstallment:WeavingTeacherSalary	763.13 {NGN 45000}
+	Expenses:4thInstallment:WeavingMaterials		1017.51 {NGN 60000}
+	Assets:Chuffed					-1780.64
+	;Expenses:NGTransportation			 84.79 {NGN 5000}
+	;Paul:Assets:BankAccount			-84.79		# I sent it all at once, 1865,43 {NGN 110.000}
 
-2020-09-18	Special Naija Treat
-	Expenses:Perks:SpecialNaijaTreat	(460+65+225+385)  ; https://www.instagram.com/p/CFSyOrRhN34/
-	Paul:Assets:BankAccount			-1135
+# Proposition 4: Weaving education programme
+#
+# Pauls thinking on education: Tuition fees to regular school can easily amount to NGN 40-60.000 per year for just 1 child (excl cost of transportation, materials, food, etc). So what is the benefit of school? learning to read, focus, write/calculate/produce, work in peer groups, etc? I think there are many ways to learn these things, and many ways to facilitate the learning of a lot more children for the same cost as one child in regular school. From a cost-benefit perspective alone, I think there is too much cost and not enough benefit associated with  traditional schooling. I think Ken Robinson has similar views I think https://www.ted.com/talks/sir_ken_robinson_changing_education_paradigms. 
+# Instead, with this 2-month vocational weaving course it is my hope that the children will train their focusing and group-work skills. I will also ask them to fullfil an assignment to get them to exercise their reading and writing skills (the assignment is based on ideas from my own university experience, Johari Window, GrowthWheel, general R&D, The Lean Startup, etc) https://docs.google.com/document/d/172FPmjHTW01Ht-4oxOxdMVNPa-xEdneCYdh80cZY9_o/edit?usp=sharing
+# All this being said, we have identified the 5 best students in the orphanage and hope to cover the cost of their tuition for the next year.
+#
+# Benjamin Franklin: Tell me and I will forget; Teach me and I will remember; Involve me and I will learn.
+# https://theconversation.com/why-nigeria-must-get-serious-about-primary-school-education-119326
+# https://www.researchgate.net/figure/WAEC-Grading-System-for-Examinations_tbl1_286509677
+# https://en.wikipedia.org/wiki/Grading_systems_by_country#Nigeria
+# https://www.scholaro.com/pro/Countries/Nigeria/Grading-System
+#
+# Teacher salary, 2 months	 	NGN 45.000
+# Materials				NGN 60.000
+
+2020-09-19	Tailors and Carpenters support		; https://drive.google.com/drive/folders/1Ikyx4DPvEU0RLR6vj71qzLEQwcSnlbOT?usp=sharing
+	Expenses:3rdInstallment:TailorSupport		1177.19 {NGN 69.750}
+	Expenses:3rdInstallment:CarpenterSupport		820.29 {NGN 50.000}
+	Assets:Chuffed					-1997.48
+	;Expenses:NGTransportation			37.11+53.73 {NGN 2000 + NGN 3000}
+	;Paul:Assets:BankAccount			-37.11-53.73
+
+2020-09-18	Special Naija Treat			; https://www.facebook.com/olufkolumbo/posts/10157591636035817
+	Expenses:Perks:SpecialNaijaTreat		(460+65+225+385)  ; https://www.instagram.com/p/CFSyOrRhN34/
+	Paul:Assets:BankAccount				-1135
 
 
 # Proposition 3: Empower the tailors and carpenters to do their craft so that they can earn money to support themselves
@@ -26,11 +82,14 @@
 #
 # Total: 				NGN 119.750 (DKK 1964.59)
 
+
 # Research cost of: repairing their minivan, build bunk beds, build aquaponics/fishtank, make natural soaps, install solar cells.
+# 
+# MINIVAN
+# 7 of the children want to be mechanic and 1 is already very skilled. They estimate it will cost around NGN 200.000 to get him the materials to fix their bus
 
-
-2020-09-10	2nd shipment to orphanage        ; https://drive.google.com/drive/folders/12N5FeO6hR8njTjUlX6V0mFEKSyyjUDtE?usp=sharing
-	Expenses:2ndShipment:Food	1353.78 {=NGN 81000}
+2020-09-10	2nd installment to orphanage        ; https://drive.google.com/drive/folders/12N5FeO6hR8njTjUlX6V0mFEKSyyjUDtE?usp=sharing
+	Expenses:2ndInstallment:Food	1353.78 {=NGN 81000}
 	Assets:Chuffed			-1353.78
 	;Paul:Assets:Bank		-1353.78 {=NGN 81000}
 	;NGContact:Assets:Bank		NGN 81000 {=1353.78}
@@ -86,9 +145,9 @@
 	Income:Donations:Chuffed	-700
 	Assets:Chuffed			700
 
-2020-08-15   1st shipment to orphanage    ; Status video  https://www.youtube.com/watch?v=gBttSZ-7Tc0 and https://photos.app.goo.gl/hP9cqQuCqqbJph4d7
-	Expenses:1stShipment:Food		1179,24 {=NGN 70000}
-	Expenses:1stShipment:Clothes	497 {=NGN 30000}   
+2020-08-15   1st installment to orphanage    ; Status video  https://www.youtube.com/watch?v=gBttSZ-7Tc0 and https://photos.app.goo.gl/hP9cqQuCqqbJph4d7
+	Expenses:1stInstallment:Food		1179,24 {=NGN 70000}
+	Expenses:1stInstallment:Clothes	497 {=NGN 30000}   
 	Assets:Chuffed		-1676,24
 	; Paul:Assets:Bank	(-838,82-837,42) {=NGN 50000 + NGN 50000}	; 2020-08-14
 	; NGContact:Assets:Bank			NGN 100000				; 2020-08-14
