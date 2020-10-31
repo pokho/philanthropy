@@ -3,6 +3,27 @@
 # How to use this file: https://www.ledger-cli.org/
 # Do you also need to send money internationally, sign up here to get discount: https://transferwise.com/invite/u/paulh2606
 
+################################
+#   TODO
+# - Get receipts of 2nd(food) and 3rd(tailor+carpenter) installments
+# - Get documentation for 4th installment (receipts not available with local woman)
+# - Mentorship network for students
+# - Prioritise remaining funds:
+# -- Food
+# -- Education + Laptop/Tablet
+# -- Beds
+# -- Books
+################################
+
+2020-10-31	Reserve funds for bunkbeds and the last food
+	Assets:Mobilepay				-3000
+	Assets:Fund:Bunkbeds				1500
+	Assets:Fund:Food				1500
+
+2020-10-14	Writing material
+	Expenses:5thInstallment:WritingMaterial		339 {NGN 20000}
+	Assets:Chuffed					-339
+
 # Proposition 5: Books for further self-education, and tuition fees for top students
 #
 #
@@ -11,29 +32,36 @@
 # 3 students in primary		NGN 15.000 pr term pr child	Total NGN 135.000 for 1 year for 3 children
 # 2 students in secondary	NGN 20.000 pr term pr child	Total NGN 120.000 for 1 year for 2 children
 # 								Total NGN 255.000 (DKK ~4220) for 1 year for 5 children
+#								Total NGN 105.000 (DKK 1746) for 1 year 2 primary 1 secondary
 #
 # SCHOOL MATERIALS
-# Pen
-# Notebook (plain)
-#
+# Pencil			NGN 350/pack	NGN 1400 for 4 packs (40 pencils)
+# Notebook (plain)		NGN 600   	NGN 18.000 for 30
+# Notebook (lines)		NGN 400	 	NGN 12.000 for 30
+# Accounting book		NGN 3000	NGN 6000 for 2
+# Total						NGN 19.400 ~ DKK 330 (2 accounting, 30 notebooks, 4 packs of pencil)
 #
 #BOOKS
-# Mathematics	Knuth: Concrete Mathematics
-# NG languages
-# NG history
-# Poetry	Donatus Nwoga: West African Verse
+# African Auth.	Ngozi: Dear Ijeawele
 # 		Wole Soyinka: Poems of Black Africa
-# 		Shakespeare
+# 		Donatus Nwoga: West African Verse
+# 		Cheikh Anta Diop: The Cultural Unity of Black Africa	
+# 		Ngũgĩ wa Thiong'o: Decolonising the Mind
+# 		Ama Ata Aidoo children books
+# 		Awolowo: Thoughts on the Nigerian Constitution
+# Mathematics	Knuth: Concrete Mathematics
+# Poetry	Shakespeare
 # Carpentry: 	Paul Sellers: Working Wood 1 & 2
 # Farming: 	Rosemary Morrow: Earth User's Guide to Permaculture 
 # 		Mollisson: Introduction to Permaculture + Permaculture Designers Manual
 # 		Hemenway: Gaia's Garden
 # Philosophy	The Socratic Dialogues
+# 		The School of Life https://www.theschooloflife.com/shop/the-school-of-life-an-emotional-education/
 # Lang&Media	Rosenberg: Non-Violent Communication
 # 		Ong: Orality & Literacy
 # 		McLuhan: Understanding Media
-# Culture&Fin	Ngozi: Dear Ijeawele
-# 		Clason: Richest Man in Babylon; Hill: Five Wealth Secrets; Hill: Think and grow rich; or Piketty: Capitalism
+# Finance	Clason: Richest Man in Babylon; Hill: Five Wealth Secrets; Hill: Think and grow rich; or Piketty: Capitalism
+# 		Alastair Campbell: Winners
 
 
 2020-09-26	Weaving 2 month programme
