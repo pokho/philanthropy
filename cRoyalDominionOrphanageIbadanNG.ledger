@@ -5,15 +5,25 @@
 
 ################################
 #   TODO
-# - Get receipts of 2nd(food) and 3rd(tailor+carpenter) installments
-# - Get documentation for 4th installment (receipts not available with local woman)
-# - Mentorship network for students
+# - Get pictures of weaving woman
 # - Prioritise remaining funds:
 # -- Food
-# -- Education + Laptop/Tablet
+# -- Education
 # -- Beds
-# -- Books
 ################################
+
+2020-11-05	Books for orphanage			; https://www.facebook.com/olufkolumbo/posts/10157624320125817?comment_id=10157624802235817&reply_comment_id=10157703288465817
+	Expenses:7thInstallment:books			1128.98 {NGN 67450}
+	Assets:Chuffed					-64.21
+	Assets:Mobilepay
+
+2020-11-02	Food and smartphone			; https://drive.google.com/drive/folders/1kBJS6GQtv8AFRHOQgewmE7Flgu0SYG2O?usp=sharing
+	Expenses:6thInstallment:food			932.03 {NGN 55000}
+	Expenses:6thInstallment:smartphone		423.65 {NGN 25000}
+	Assets:Chuffed					-423.65
+	Assets:Fund:Food				-932.03
+	;Expenses:NGTransportation			84.73 {NGN 5000}
+	;Paul:Assets:BankAccount			-84.73
 
 2020-10-31	Reserve funds for bunkbeds and the last food
 	Assets:Mobilepay				-3000
