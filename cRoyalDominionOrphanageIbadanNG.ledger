@@ -1,16 +1,23 @@
 # Project site: https://chuffed.org/project/support-for-orphanage-in-ibadan-nigeria
 # Project planned budget: https://workflowy.com/s/budget/7sThxv4G3qo9gq5V
+# Project receipts and all captured public evidence https://drive.google.com/drive/folders/1T0LV31G8Mw_nt6cqsW7_0ImPa7hzmT30?usp=sharing
 # How to use this file: https://www.ledger-cli.org/
 # Do you also need to send money internationally, sign up here to get discount: https://transferwise.com/invite/u/paulh2606
+# Unless otherwise stated, all Income and Expense transactions are through Paul's bank account as declared to Indsamlingsnævnet.
 
-################################
-#   TODO
-# - Get pictures of weaving woman
-# - Prioritise remaining funds:
-# -- Food
-# -- Education
-# -- Beds
-################################
+2021-01-18	Bunk beds and food for the last money 	; Since December 16th it is no longer possible to transfer naira to Nigeria https://twitter.com/cenbank/status/1339196770774093825 and https://twitter.com/cenbank/status/1339257938372947968. So instead I used Western Union cash pickup
+	Assets:Fund:Food				-567.97				
+	Assets:Fund:Bunkbeds				-1076.14
+	Assets:Mobilepay				-210.07
+	Expenses:9thInstallment:Bunkbed and food	1873.1 {USD 301}
+	Expenses:Admin:NGTransportation			62.23 {USD 10} ;{NGN 4000}
+	Paul:Assets:BankAccount				
+
+2020-11-21	School fees, bunk bed, 
+	Expenses:8thInstallment:Bunkbed1		423.86 {NGN 30600}
+	Assets:Fund:Bunkbeds				-423.86
+	Expenses:8thInstallment:Schoolfees		1385.16 {NGN 100000} ; 15500+11000+9900+15500+9900+14500+7500+11000
+	Assets:Mobilepay
 
 2020-11-05	Books for orphanage			; https://www.facebook.com/olufkolumbo/posts/10157624320125817?comment_id=10157624802235817&reply_comment_id=10157703288465817
 	Expenses:7thInstallment:books			1128.98 {NGN 67450}
@@ -22,8 +29,8 @@
 	Expenses:6thInstallment:smartphone		423.65 {NGN 25000}
 	Assets:Chuffed					-423.65
 	Assets:Fund:Food				-932.03
-	;Expenses:NGTransportation			84.73 {NGN 5000}
-	;Paul:Assets:BankAccount			-84.73
+	Expenses:Admin:NGTransportation			84.73 {NGN 5000}
+	Paul:Assets:BankAccount				-84.73
 
 2020-10-31	Reserve funds for bunkbeds and the last food
 	Assets:Mobilepay				-3000
@@ -51,7 +58,7 @@
 # Accounting book		NGN 3000	NGN 6000 for 2
 # Total						NGN 19.400 ~ DKK 330 (2 accounting, 30 notebooks, 4 packs of pencil)
 #
-#BOOKS
+#BOOK SUGGESTIONS
 # African Auth.	Ngozi: Dear Ijeawele
 # 		Wole Soyinka: Poems of Black Africa
 # 		Donatus Nwoga: West African Verse
@@ -78,8 +85,8 @@
 	Expenses:4thInstallment:WeavingTeacherSalary	763.13 {NGN 45000}
 	Expenses:4thInstallment:WeavingMaterials		1017.51 {NGN 60000}
 	Assets:Chuffed					-1780.64
-	;Expenses:NGTransportation			 84.79 {NGN 5000}
-	;Paul:Assets:BankAccount			-84.79		# I sent it all at once, 1865,43 {NGN 110.000}
+	Expenses:Admin:NGTransportation			 84.79 {NGN 5000}
+	Paul:Assets:BankAccount				-84.79	; I sent it all at once, 1865,43 {NGN 110.000}
 
 # Proposition 4: Weaving education programme
 #
@@ -98,13 +105,13 @@
 
 2020-09-19	Tailors and Carpenters support		; https://drive.google.com/drive/folders/1Ikyx4DPvEU0RLR6vj71qzLEQwcSnlbOT?usp=sharing
 	Expenses:3rdInstallment:TailorSupport		1177.19 {NGN 69.750}
-	Expenses:3rdInstallment:CarpenterSupport		820.29 {NGN 50.000}
+	Expenses:3rdInstallment:CarpenterSupport	820.29 {NGN 50.000}
 	Assets:Chuffed					-1997.48
-	;Expenses:NGTransportation			37.11+53.73 {NGN 2000 + NGN 3000}
-	;Paul:Assets:BankAccount			-37.11-53.73
+	Expenses:Admin:NGTransportation			(37,11+53,73)  ;NGN 5000 Transferred in 2 steps
+	Paul:Assets:BankAccount				(-37.11 - 53.73)
 
 2020-09-18	Special Naija Treat			; https://www.facebook.com/olufkolumbo/posts/10157591636035817
-	Expenses:Perks:SpecialNaijaTreat		(460+65+225+385)  ; https://www.instagram.com/p/CFSyOrRhN34/
+	Expenses:Admin:Perks:SpecialNaijaTreat		(460+65+225+385)  ; https://www.instagram.com/p/CFSyOrRhN34/
 	Paul:Assets:BankAccount				-1135
 
 
@@ -127,14 +134,10 @@
 # 7 of the children want to be mechanic and 1 is already very skilled. They estimate it will cost around NGN 200.000 to get him the materials to fix their bus
 
 2020-09-10	2nd installment to orphanage        ; https://drive.google.com/drive/folders/12N5FeO6hR8njTjUlX6V0mFEKSyyjUDtE?usp=sharing
-	Expenses:2ndInstallment:Food	1353.78 {=NGN 81000}
+	Expenses:2ndInstallment:Food	1353.78 {NGN 81000}
 	Assets:Chuffed			-1353.78
-	;Paul:Assets:Bank		-1353.78 {=NGN 81000}
-	;NGContact:Assets:Bank		NGN 81000 {=1353.78}
-	;NGContact:Assets:Bank		NGN -81000
-	;Expenses:Market:Food		NGN 81000
-	;Expenses:NGTransportation	NGN 2000 {=37.16}
-	;Paul:Assets:Bank		-37.16
+	Expenses:Admin:NGTransportation	37.16 {NGN 2000}
+	Paul:Assets:BankAccount		-37.16
 
 # 2020-09-07	DKK 1359,65 payout from Assets:Chuffed/Stripe. This was the last payout received. Total payouts = 7289,62
 
@@ -158,7 +161,7 @@
 	Income:Donations:Chuffed		-1810
 	Assets:Chuffed				1810
 	Assets:Mobilepay			3605
-	Expenses:Fees:MobilepayBoxFee		45	; Mobilepay wants 15kr fee everytime you cross 1000kr in a box
+	Expenses:Admin:Fees:MobilepayBoxFee	45	; Mobilepay wants 15kr fee everytime you cross 1000kr in a box
 	Paul:Assets:BankAccount			-45
 
 # 2020-08-24  DKK 769,93 payout from Assets:Chuffed/Stripe
@@ -168,12 +171,12 @@
 	Income:Donations:Chuffed		-2650
 	Assets:Chuffed				2650
 	Assets:Mobilepay			2055
-	Expenses:Fees:MobilepayBoxFee		30  	; 2020-08-23. Two box fees of 15kr each
+	Expenses:Admin:Fees:MobilepayBoxFee	30  	; 2020-08-23. Two box fees of 15kr each
 	Paul:Assets:BankAccount			-30
 
 2020-08-23    Nørrebroparken Streetsale sodas & chocolate
-	Expenses:Promotion:Nørrebroparken1:Sodas&Chocolate		(221,80+10+34,75) ; https://photos.app.goo.gl/38KiH8NEM1XxLjh99
-	Expenses:Promotion:Nørrebroparken1:Coolingbox&Fastening		(20+119,95+10)
+	Expenses:Admin:Promotion:Nørrebroparken1:Sodas&Chocolate	(221,80+10+34,75) ; https://photos.app.goo.gl/38KiH8NEM1XxLjh99
+	Expenses:Admin:Promotion:Nørrebroparken1:Coolingbox&Fastening	(20+119,95+10)
 	Paul:Assets:BankAccount						-208,25
 	Rikke:Assets:BankAccount					-208,25
 
@@ -183,14 +186,10 @@
 	Income:Donations:Chuffed	-700
 	Assets:Chuffed			700
 
-2020-08-15   1st installment to orphanage    ; Status video  https://www.youtube.com/watch?v=gBttSZ-7Tc0 and https://photos.app.goo.gl/hP9cqQuCqqbJph4d7
-	Expenses:1stInstallment:Food		1179,24 {=NGN 70000}
-	Expenses:1stInstallment:Clothes	497 {=NGN 30000}   
-	Assets:Chuffed		-1676,24
-	; Paul:Assets:Bank	(-838,82-837,42) {=NGN 50000 + NGN 50000}	; 2020-08-14
-	; NGContact:Assets:Bank			NGN 100000				; 2020-08-14
-	; NGContact:Assets:Bank			NGN -100000				; 2020-08-14
-	; Expenses:Market:Food&Clothes		NGN 100000				; 2020-08-14
+2020-08-15=2020-08-14   1st installment to orphanage    ; Status video  https://www.youtube.com/watch?v=gBttSZ-7Tc0 and https://photos.app.goo.gl/hP9cqQuCqqbJph4d7
+	Expenses:1stInstallment:Food		1179,24 {NGN 70000}
+	Expenses:1stInstallment:Clothes		497 {NGN 30000}   
+	Assets:Chuffed				-1676,24
 
 # Proposed first purchase for the orphanage. NGN 99.967 (DKK 1656)
 # 1 bag of 50kg local rice 24.000 (397)
@@ -214,14 +213,14 @@
 	Assets:Chuffed			 830
 
 2020-08-04   Marketing consultant august
-	Expenses:Promotion:Marketing		953 {=USD 150}
-	Expenses:Fees:TransferFees
-	Paul:Assets:BankAccount		-1018
+	Expenses:Admin:Promotion:Marketing	953 {USD 150}
+	Expenses:Admin:Fees:TransferFees
+	Paul:Assets:BankAccount			-1018
 
 2020-08-02   Week 31 donations
 	Income:Donations:Chuffed	-1645
 	Assets:Chuffed			 1645
 
 2020-07-09   Civilstyrelsen Application fee (indsamlingsnaevnet.dk)
-	Expenses:Fees:ApplicationProcessing	 1100
-	Paul:Assets:BankAccount		-1100
+	Expenses:Admin:Fees:ApplicationProcessing	1100
+	Paul:Assets:BankAccount				-1100
